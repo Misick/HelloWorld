@@ -1,0 +1,5 @@
+/srv/HelloWorld/HelloWorld
+/srv/HelloWorld/HelloWorld.dll
+/srv/HelloWorld/HelloWorld.deps.json
+/srv/HelloWorld/HelloWorld.runtimeconfig.json
+/srv/HelloWorld/HelloWorld.pdb

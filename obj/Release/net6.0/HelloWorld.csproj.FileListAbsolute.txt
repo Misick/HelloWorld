@@ -1,0 +1,15 @@
+/home/misick/HelloWorld/bin/Release/net6.0/HelloWorld
+/home/misick/HelloWorld/bin/Release/net6.0/HelloWorld.deps.json
+/home/misick/HelloWorld/bin/Release/net6.0/HelloWorld.runtimeconfig.json
+/home/misick/HelloWorld/bin/Release/net6.0/HelloWorld.dll
+/home/misick/HelloWorld/bin/Release/net6.0/ref/HelloWorld.dll
+/home/misick/HelloWorld/bin/Release/net6.0/HelloWorld.pdb
+/home/misick/HelloWorld/obj/Release/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/home/misick/HelloWorld/obj/Release/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/misick/HelloWorld/obj/Release/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/home/misick/HelloWorld/obj/Release/net6.0/HelloWorld.AssemblyInfo.cs
+/home/misick/HelloWorld/obj/Release/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/misick/HelloWorld/obj/Release/net6.0/HelloWorld.dll
+/home/misick/HelloWorld/obj/Release/net6.0/ref/HelloWorld.dll
+/home/misick/HelloWorld/obj/Release/net6.0/HelloWorld.pdb
+/home/misick/HelloWorld/obj/Release/net6.0/HelloWorld.genruntimeconfig.cache
